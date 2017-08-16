@@ -23,6 +23,9 @@ gem 'coffee-rails', '~> 4.2'
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave', '~> 1.0'
+gem 'figaro'
+gem 'fog-aws'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
